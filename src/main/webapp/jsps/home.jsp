@@ -17,6 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
+		<color>blue</color>
 		Mithun Software Solutions, 
 		Martha Halli,
 		Bangalore,
